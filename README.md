@@ -2,7 +2,7 @@
 <h3 align="center">A system engineer passionate about programming and a data engineering enthusiast.</h3>
 - 🌱 I’m currently learning **AWS, DataWare Housing in platzi**
 
-- 👯 I’m looking to collaborate on **MYSERVY**
+- 👯 I’m Working on **MYSERVY**
 
 - 💬 Ask me about **JavaScript, TypeScript, Python, SQl, Web Design**
 
